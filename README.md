@@ -1,4 +1,5 @@
 # SudokuSolver
+![MIT License](https://img.shields.io/badge/license-MIT-green) \
 A simple python script that solve easy/medium sudokus.
 
 ## 💾 Installation
